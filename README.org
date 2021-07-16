@@ -2,6 +2,8 @@
 
 A small pygame Lunar Lander game.
 
+[[demo.gif]]
+
 *Dependencies*:
 
 - Python 3
