@@ -1,0 +1,10 @@
+#+title: Lander
+
+A small pygame Lunar Lander game.
+
+*Dependencies*:
+
+- Python 3
+- Pygame
+- Shapely
+
